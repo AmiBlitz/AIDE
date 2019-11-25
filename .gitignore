@@ -1,0 +1,9 @@
+*.dbg
+*.bak
+*.history
+Locale/PhraseBooks/*.bin
+System/HelpIndexCache.bin
+System/HelpIndex.txt
+System/TokenList.hashmap
+System/token_mapping_userlibs.txt
+AIDE/System/PathHistory.pft
